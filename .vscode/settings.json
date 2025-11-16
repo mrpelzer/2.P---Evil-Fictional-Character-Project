@@ -7,7 +7,5 @@
         "*": false
     },
     "github.copilot.inlineSuggest.enable": false,
-    {
         "workbench.startupEditor": "readme"
-    }
 }
